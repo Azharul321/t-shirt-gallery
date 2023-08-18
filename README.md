@@ -10,3 +10,7 @@
 _now set a database in mySql with the name "**t-shirts-gallery**"_
 ### **Then import the sql file which you found in 'database sql file' folder in project root directory.**
 ## Now you can run project as usual.
+
+-------
+### admin user name: azhar
+### password : 12345678
